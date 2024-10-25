@@ -37,3 +37,17 @@ Esses participantes completaram todos os 3 desafios e foram aprovados para a nov
 | **Desafio 03**| [GitHub](https://github.com/alvesmariadefatima/desafio3)                   | [Deploy](https://formulario-cadastro-membros-frontend-fusion.vercel.app/)        | 200XP     | 🥉         |
 
 ---
+
+# Reuel Silva
+
+<img src="https://avatars.githubusercontent.com/u/62396328?v=4" alt="Avatar" width="120" height="120">
+
+**🤖 Desenvolvedor**
+
+**Fase Atual:** Code Wizard
+
+| Desafio       | Link do GitHub                                                                                          | Link do Deploy                                                                                      | Pontuação | Conquista |
+|---------------|---------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|-----------|-----------|
+| **Desafio 01**| [GitHub](https://github.com/Breno-Mateus/apresentacao-pessoal-frontend/tree/breno-mateus)                       | [Deploy](https://my-portfolio-mu-lac-98.vercel.app/)                                                  | 400XP     | 🏆         |
+| **Desafio 02**| [GitHub](https://github.com/reuelsilva/desafio-galeria-de-imagens-frontendfusion)                       | [Deploy](https://banco-de-imagens-app.vercel.app/)                                                  | 250XP     | 🥈         |
+| **Desafio 03**| [GitHub](https://github.com/reuelsilva/desafio-formulario-com-validacao-frontend)                        | [Deploy](https://formulario-desafio03-two.vercel.app/)                                              | 200XP     | 🥉         |
