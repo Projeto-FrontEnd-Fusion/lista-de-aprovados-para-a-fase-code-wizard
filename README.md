@@ -69,3 +69,53 @@ Esses participantes completaram todos os 3 desafios e foram aprovados para a nov
 | **Desafio 03**| [GitHub](https://github.com/cristianmeelo/challenge-frontend-volunteer-react-3-step)                    | [Deploy](https://challenge-frontend-volunteer-react-form.vercel.app/)                               | 200XP     | 🥉         |
 
 
+---
+# Walassi Silva
+
+<img src="https://avatars.githubusercontent.com/WalassiSilva?v=4" alt="Avatar" width="120" height="120">
+
+**🤖 Desenvolvedor Frontend**
+
+**Fase Atual:** Code Wizard
+
+| Desafio       | Link do GitHub                                                             | Link do Deploy                                                                  | Pontuação | Conquista |
+|---------------|---------------------------------------------------------------------------|--------------------------------------------------------------------------------|-----------|-----------|
+| **Desafio 01**| [GitHub](https://github.com/WalassiSilva/apresentacao-pessoal-frontend)   | [Deploy](https://apresentacao-pessoal-frontend-eta.vercel.app/)                | 400XP     | 🏆         |
+| **Desafio 02**| [GitHub](https://github.com/WalassiSilva/desafio-galeria-de-imagem-frontendfusion) | [Deploy](https://desafio-galeria-de-imagem-frontendfusion-ten.vercel.app/) | 250XP     | 🥈         |
+| **Desafio 03**| [GitHub](https://github.com/WalassiSilva/desafio-formulario-com-validacao-frontend/tree/walassi-silva) | [Deploy](https://desafio-formulario-com-validacao-frontend-tan.vercel.app/) | 200XP     | 🥉         |
+
+---
+
+# Eder Lima
+
+<img src="https://avatars.githubusercontent.com/EderLimaDev?v=4" alt="Avatar" width="120" height="120">
+
+**🤖 Desenvolvedor Frontend**
+
+**Fase Atual:** Code Wizard
+
+| Desafio       | Link do GitHub                                                             | Link do Deploy                                                                  | Pontuação | Conquista |
+|---------------|---------------------------------------------------------------------------|--------------------------------------------------------------------------------|-----------|-----------|
+| **Desafio 01**| [GitHub](https://github.com/EderLimaDev/apresentacao-pessoal)             | [Deploy](https://apresentacao-pessoal-one.vercel.app/)                         | 400XP     | 🏆         |
+| **Desafio 02**| [GitHub](https://github.com/EderLimaDev/desafio-galeria-de-imagem)        | [Deploy](https://galeria-de-imagens-mu.vercel.app/)                            | 250XP     | 🥈         |
+| **Desafio 03**| [GitHub](https://github.com/EderLimaDev/formulario-com-validacao)         | [Deploy](https://formulario-com-validacao-seven.vercel.app/)                   | 200XP     | 🥉         |
+
+---
+
+
+# Ademir de Jesus Reis Júnior
+
+<img src="https://avatars.githubusercontent.com/adejuniorr?v=4" alt="Avatar" width="120" height="120">
+
+**🤖 Desenvolvedor Frontend**
+
+**Fase Atual:** Code Wizard
+
+| Desafio       | Link do GitHub                                                             | Link do Deploy                                                                  | Pontuação | Conquista |
+|---------------|---------------------------------------------------------------------------|--------------------------------------------------------------------------------|-----------|-----------|
+| **Desafio 01**| [GitHub](https://github.com/adejuniorr/apresentacao-pessoal-frontend)     | [Deploy](https://dev-ade-fusion.vercel.app/)                                   | 400XP     | 🏆         |
+| **Desafio 02**| [GitHub](https://github.com/adejuniorr/desafio-galeria-de-imagem-frontendfusion) | [Deploy](https://galeria-de-imagens-fusion.vercel.app/)                 | 250XP     | 🥈         |
+| **Desafio 03**| [GitHub](https://github.com/adejuniorr/desafio-formulario-com-validacao-frontend) | [Deploy](https://formulario-frontend-fusion.vercel.app/)              | 200XP     | 🥉         |
+
+---
+
