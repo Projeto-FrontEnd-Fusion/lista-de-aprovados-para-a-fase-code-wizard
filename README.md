@@ -152,6 +152,40 @@ Esses participantes completaram todos os 3 desafios e foram aprovados para a nov
 ---
 
 
+# Sandro Campesatto
+
+<img src="https://desafio-fusion-01.vercel.app/assets/profile-COgnBPn8.jpg" alt="Avatar" width="120" height="120">
+
+**🤖 Desenvolvedor Frontend**
+
+**Fase Atual:** Code Wizard
+
+| Desafio       | Link do GitHub                                                       | Link do Deploy                                                                    | Pontuação | Conquista |
+|---------------|---------------------------------------------------------------------|----------------------------------------------------------------------------------|-----------|-----------|
+| **Desafio 01**| [GitHub](https://github.com/CampesattoJr/desafio-fusion-01.git)                          | [Deploy](https://desafio-fusion-01.vercel.app/)                                 | 400XP     | 🏆         |
+| **Desafio 02**| [GitHub](https://github.com/CampesattoJr/desafio-fusion-02.git)                          | [Deploy](https://desafio-fusion-02.vercel.app/)                                 | 250XP     | 🥈         |
+| **Desafio 03**| [GitHub](https://github.com/CampesattoJr/desafio-fusion-03.git)                          | [Deploy](https://desafio-fusion-03.vercel.app/)                                 | 200XP     | 🥉         |
+
+---
+
+# Reuel Silva
+
+<img src="https://avatars.githubusercontent.com/reuelsilva?v=4" alt="Avatar" width="120" height="120">
+
+**🤖 Desenvolvedor Frontend**
+
+**Fase Atual:** Code Wizard
+
+| Desafio       | Link do GitHub                                                       | Link do Deploy                                                                    | Pontuação | Conquista |
+|---------------|---------------------------------------------------------------------|----------------------------------------------------------------------------------|-----------|-----------|
+| **Desafio 01**| [GitHub](https://www.github.com/reuelsilva)                        | [Deploy](https://apresentacao-pessoal-reueldev.vercel.app/)                     | 400XP     | 🏆         |
+| **Desafio 02**| [GitHub](https://www.github.com/reuelsilva)                        | [Deploy](https://banco-de-imagens-app.vercel.app/)                              | 250XP     | 🥈         |
+| **Desafio 03**| [GitHub](https://www.github.com/reuelsilva)                        | [Deploy](https://formulario-projeto-frontend-fusion.vercel.app/)                            | 200XP     | 🥉         |
+
+---
+
+
+
 
 
 
