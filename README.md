@@ -119,3 +119,20 @@ Esses participantes completaram todos os 3 desafios e foram aprovados para a nov
 
 ---
 
+# Rodrigo Bergenthal
+
+<img src="https://avatars.githubusercontent.com/RodrigoBergenthal?v=4" alt="Avatar" width="120" height="120">
+
+**🤖 Desenvolvedor Frontend**
+
+**Fase Atual:** Code Wizard
+
+| Desafio       | Link do GitHub                                                             | Link do Deploy                                                                  | Pontuação | Conquista |
+|---------------|---------------------------------------------------------------------------|--------------------------------------------------------------------------------|-----------|-----------|
+| **Projeto 1** | [GitHub](https://github.com/RodrigoBergenthal/Apresentacao-React-e-Taiwind---Vite?tab=readme-ov-fil) | [Deploy](https://rodrigobergenthal.vercel.app)                                 | 400XP     | 🏆         |
+| **Projeto 2** | [GitHub](https://github.com/RodrigoBergenthal/Galeria-de-Imagem-React---Tailwind---API) | [Deploy](https://galeria-de-imagem-react-tailwind-api.vercel.app)             | 250XP     | 🥈         |
+| **Projeto 3** | [GitHub](https://github.com/RodrigoBergenthal/Formulario-React_Vite_Tailwind-Yup) | [Deploy](https://formulario-react-vite-yup-animation.vercel.app)              | 200XP     | 🥉         |
+
+---
+
+
