@@ -135,4 +135,23 @@ Esses participantes completaram todos os 3 desafios e foram aprovados para a nov
 
 ---
 
+# Maria Luiza Rodrigues
+
+<img src="https://avatars.githubusercontent.com/maria-luiza-rodrigues-ti?v=4" alt="Avatar" width="120" height="120">
+
+**🤖 Desenvolvedora Frontend**
+
+**Fase Atual:** Code Wizard
+
+| Desafio       | Link do GitHub                                                       | Link do Deploy                                                                     | Pontuação | Conquista |
+|---------------|---------------------------------------------------------------------|-----------------------------------------------------------------------------------|-----------|-----------|
+| **Desafio 01**| [GitHub](https://github.com/maria-luiza-rodrigues-ti)             | [Deploy](https://maria-luiza-rodrigues-ti.github.io/apresentacao-pessoal-frontend/) | 400XP     | 🏆         |
+| **Desafio 02**| [GitHub](https://github.com/maria-luiza-rodrigues-ti)             | [Deploy](https://desafio-galeria-de-imagem-frontendfusion-kappa.vercel.app/)      | 250XP     | 🥈         |
+| **Desafio 03**| [GitHub](https://github.com/maria-luiza-rodrigues-ti)             | [Deploy](https://maria-luiza-rodrigues-ti.github.io/desafio-formulario-com-validacao-frontend/) | 200XP     | 🥉         |
+
+---
+
+
+
+
 
