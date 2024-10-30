@@ -185,6 +185,23 @@ Esses participantes completaram todos os 3 desafios e foram aprovados para a nov
 ---
 
 
+# Ana Paula de Souza Ferreira
+
+<img src="https://avatars.githubusercontent.com/ana-ferreiramg?v=4" alt="Avatar" width="120" height="120">
+
+**🤖 Desenvolvedora Frontend**
+
+**Fase Atual:** Code Wizard
+
+| Desafio       | Link do GitHub                                                                                         | Link do Deploy                                                                    | Pontuação | Conquista |
+|---------------|-------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|-----------|-----------|
+| **Desafio 01**| [GitHub](https://github.com/ana-ferreiramg/apresentacao-pessoal-frontend)                           | [Deploy](https://anaferreira.netlify.app/)                                     | 400XP     | 🏆         |
+| **Desafio 02**| [GitHub](https://github.com/ana-ferreiramg/desafio-galeria-de-imagem-frontendfusion/tree/main)      | [Deploy](https://galerypicsum.netlify.app/)                                     | 250XP     | 🥈         |
+| **Desafio 03**| [GitHub](https://github.com/ana-ferreiramg/desafio-formulario-com-validacao-frontend)               | [Deploy](https://form-validation-frontendfusion.netlify.app/)                   | 200XP     | 🥉         |
+
+---
+
+
 
 
 
