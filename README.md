@@ -289,6 +289,22 @@ Esses participantes completaram todos os 3 desafios e foram aprovados para a nov
 
 ---
 
+# Ennya Silveira
+
+<img src="https://lh3.googleusercontent.com/a-/ALV-UjW5sa9d6fSC5gTCnBccaWYVeKfn0cdn_QzJ2r_EQOxB3XOR55NACA" alt="Avatar Ennya Silveira" width="120" height="120">
+
+**🎨 Cargo:** UI/UX  
+
+**Fase Atual:** Code Wizard  
+
+| **Campo**                   | **Dados**                                 |
+|-----------------------------|------------------------------------------|
+| **Squad**                   | Squad Ghost Crew UI/UX D4                |
+| **Protótipo Figma**         | [Acessar protótipo](https://www.figma.com/proto/BnY0cBmwVe7xySFxGVwCBb/Untitled?node-id=0-1&t=g7avYqk63bLyAP41-1) |
+| **Post LinkedIn**           | [Ver postagem](https://www.linkedin.com/posts/ennya-silveira-0a851a178_acabei-de-finalizar-um-projeto-de-uiux-para-activity-7257461974513401859-X0bL?utm_source=share&utm_medium=member_ios) |
+| **Link do Behance**         | [Behance](https://www.behance.net/ennyasilveira) |
+
+
 
 
 
