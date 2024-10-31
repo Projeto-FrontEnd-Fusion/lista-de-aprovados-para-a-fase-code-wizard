@@ -202,6 +202,59 @@ Esses participantes completaram todos os 3 desafios e foram aprovados para a nov
 ---
 
 
+# Duda Tesch
+
+<img src="https://media.licdn.com/dms/image/v2/D4D03AQEEC7lU-fWRLw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1715962157532?e=1735776000&v=beta&t=W4XVU27NLgKcywJUXDE9AfQeIsh87dHrHp-KPuIVI2c" alt="Avatar Duda Tesch" width="120" height="120">
+
+**🎨 Cargo:** UI/UX  
+
+**Fase Atual:** Code Wizard  
+
+| **Campo**           | **Dados**                                 |
+|---------------------|------------------------------------------|
+| **Squad**           | Squad Rogue One                          |
+| **Protótipo Figma** |                                          |
+| **Desktop**         | [Acessar protótipo desktop](https://www.figma.com/proto/ZjUgWR5dg0ovFoEBMpy8uI/site_ONG?node-id=48-2166&node-type=canvas&t=dohHGJetu7hiJdpr-0&scaling=min-zoom&content-scaling=fixed&page-id=48%3A2165&starting-point-node-id=48%3A2166&show-proto-sidebar=1) |
+| **Mobile**          | [Acessar protótipo mobile](https://www.figma.com/proto/ZjUgWR5dg0ovFoEBMpy8uI/site_ONG?node-id=114-1390&node-type=canvas&t=3DSfw4WzOavupvC5-9&scaling=min-zoom&content-scaling=fixed&page-id=48%3A2165&starting-point-node-id=114%3A1390&show-proto-sidebar=1) |
+| **Post LinkedIn**   | [Ver postagem](https://www.linkedin.com/posts/eduardatesch12_futuro-em-foco-activity-7257193644753850368-aoeR?utm_source=share&utm_medium=member_desktop) |
+
+---
+
+
+# Bruna
+
+<img src="link_do_avatar_aqui" alt="Avatar Bruna" width="120" height="120">
+
+**🎨 Cargo:** UI/UX  
+
+**Fase Atual:** Code Wizard  
+
+| **Campo**           | **Dados**                                 |
+|---------------------|------------------------------------------|
+| **Squad**           | Ghost Crew                               |
+| **Protótipo**       | [Acessar protótipo](https://www.figma.com/proto/7D19oG1PtTL1Qah8oZXERC/XP-Manager?node-id=438-2961&node-type=canvas&t=iEDdVhELV7zin30u-1&scaling=min-zoom&content-scaling=fixed&page-id=1%3A6) - Recomendado usar na resolução full para ter a experiência completa |
+
+
+---
+
+
+# Alê Machado D3
+
+<img src="https://lh3.googleusercontent.com/a-/ALV-UjUBwOh9xzQ8W4m1Gr0LmupGHCdkbSaIohaLzB0Z0VrlnSJGSpumUg" alt="Avatar Alê Machado" width="120" height="120">
+
+**🎨 Cargo:** UI/UX  
+
+**Fase Atual:** Code Wizard  
+
+| **Campo**                   | **Dados**                                 |
+|-----------------------------|------------------------------------------|
+| **Squad**                   | Squad Phoenix Squadron                   |
+| **Protótipo Figma**         | [Acessar protótipo](https://abrir.link/ducVO) |
+| **Protótipo Figma Aberto**  | [Acessar protótipo aberto](https://abrir.link/qEwxr) |
+| **Post LinkedIn**           | [Ver postagem](https://www.linkedin.com/posts/machado-ale_projeto-ong-time-da-mudan%C3%A7a-case-study-activity-7256657646525566977-AF4U?utm_source=share&utm_medium=member_desktop) |
+| **Link do Behance**         | [Behance](https://www.behance.net/gallery/211236247/Projeto-ONG-Time-da-Mudanca) |
+
+
 
 
 
