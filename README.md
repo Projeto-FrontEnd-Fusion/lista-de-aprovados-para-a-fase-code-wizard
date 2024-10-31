@@ -255,6 +255,40 @@ Esses participantes completaram todos os 3 desafios e foram aprovados para a nov
 | **Link do Behance**         | [Behance](https://www.behance.net/gallery/211236247/Projeto-ONG-Time-da-Mudanca) |
 
 
+---
+
+# Thainá Lima Dias
+
+<img src="https://lh3.googleusercontent.com/a-/ALV-UjV5CJQCZUFXiXUFSE1wmCoaAFXQV3Vnarg7Sy1-7cikedXzvNbC" alt="Avatar Thainá Lima" width="120" height="120">
+
+**🎨 Cargo:** UI/UX  
+
+**Fase Atual:** Code Wizard  
+
+| **Campo**                   | **Dados**                                 |
+|-----------------------------|------------------------------------------|
+| **Squad**                   | Squad Rogue One                          |
+| **Protótipo Figma**         | [Acessar protótipo](https://www.figma.com/proto/qrVWbkR6g5916BfYCuEA9A/xp---manager?page-id=168%3A147&node-id=1367-238&node-type=frame&viewport=8025%2C7366%2C0.06&t=nlf0Tb4lr6bAQ4lA-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=1498%3A1279) |
+
+---
+# Patrícia Sayuri Shibuya
+
+<img src="https://lh3.googleusercontent.com/a-/ALV-UjV-vde8hW-leN0mdK7-8T4vGW0ZIBb6IIZnwxqyFU9EOLyoYzZbvQ" alt="Avatar Patrícia Sayuri" width="120" height="120">
+
+**🎨 Cargo:** UI/UX  
+
+**Fase Atual:** Code Wizard  
+
+| **Campo**                   | **Dados**                                 |
+|-----------------------------|------------------------------------------|
+| **Squad**                   | Rogue One                                |
+| **Protótipo Figma**         | [Acessar protótipo](https://www.figma.com/design/wwJT62QoVeNS0AFxMdGWVl/front-end?node-id=5-20&t=e8XyhcsIWE51zlLy-1) |
+| **Post LinkedIn**           | [Ver postagem](https://www.linkedin.com/posts/patricia-shibuya_na-semana-passada-me-inscrevi-para-um-voluntariado-activity-7256028032765755392-VqY5?utm_source=share&utm_medium=member_desktop) |
+| **Link do Behance**         | [Behance](https://www.behance.net/gallery/211090813/Desafio-FrontEnd-Fusion/modules/1199840733) |
+
+
+---
+
 
 
 
