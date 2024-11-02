@@ -201,6 +201,55 @@ Esses participantes completaram todos os 3 desafios e foram aprovados para a nov
 
 ---
 
+# Alex Soares
+
+<img src="https://avatars.githubusercontent.com/Lostleleco?v=4" alt="Avatar" width="120" height="120">
+
+**🤖 Desenvolvedor Frontend**
+
+**Fase Atual:** Code Wizard
+
+| Desafio       | Link do GitHub                                                   | Link do Deploy                                                                | Pontuação | Conquista |
+|---------------|-----------------------------------------------------------------|------------------------------------------------------------------------------|-----------|-----------|
+| **Desafio 01**| [GitHub](https://github.com/Lostleleco/apresentacao-pessoal-frontend.git) | [Deploy](https://apresentacao-pessoal-frontend-roan.vercel.app/)            | 400XP     | 🏆         |
+| **Desafio 02**| [GitHub](https://github.com/Lostleleco/desafio-formulario-com-validacao-frontend) | [Deploy](https://desafio-formulario-com-validacao-frontend-ebon.vercel.app/) | 250XP     | 🥈         |
+| **Desafio 03**| [GitHub](https://github.com/Lostleleco/desafio-galeria-de-imagem-frontendfusion.git) | [Deploy](https://apresentacao-pessoal-frontend-roan.vercel.app/)            | 200XP     | 🥉         |
+
+---
+
+# Sérgio Saraiva
+
+<img src="https://avatars.githubusercontent.com/sergiosaraivajr?v=4" alt="Avatar" width="120" height="120">
+
+**🤖 Desenvolvedor Frontend**
+
+**Fase Atual:** Code Wizard
+
+| Desafio       | Link do GitHub                                                   | Link do Deploy                                                                | Pontuação | Conquista |
+|---------------|-----------------------------------------------------------------|------------------------------------------------------------------------------|-----------|-----------|
+| **Desafio 01**| [GitHub](https://github.com/sergiosaraivajr/apresentacao-pessoal-frontend) | [Deploy](https://apresentacao-pessoal-frontend-seven.vercel.app/)            | 400XP     | 🏆         |
+| **Desafio 02**| [GitHub](https://github.com/sergiosaraivajr/desafio-galeria-de-imagem-frontendfusion) | [Deploy](https://desafio-galeria-de-imagem-frontendfusion-gamma.vercel.app/) | 250XP     | 🥈         |
+| **Desafio 03**| [GitHub](https://github.com/sergiosaraivajr/desafio-formulario-com-validacao-frontend) | [Deploy](https://desafio-formulario-com-validacao-frontend-rho.vercel.app/) | 200XP     | 🥉         |
+
+---
+# Caroline Moraes
+
+<img src="https://avatars.githubusercontent.com/carolinedemoraes?v=4" alt="Avatar" width="120" height="120">
+
+**🤖 Desenvolvedor Frontend**
+
+**Fase Atual:** Code Wizard
+
+| Desafio       | Link do GitHub                                                   | Link do Deploy                                                               | Pontuação | Conquista |
+|---------------|-----------------------------------------------------------------|---------------------------------------------------------------------------|-----------|-----------|
+| **Desafio 01**| [GitHub](https://github.com/carolinedemoraes/portfolioreact)  | [Deploy](https://carolinedemoraes.github.io/portfolioreact/)             | 400XP     | 🏆         |
+| **Desafio 02**| [GitHub](https://github.com/carolinedemoraes/image-gallery)    | [Deploy](https://carolinedemoraes.github.io/image-gallery/)               | 250XP     | 🥈         |
+| **Desafio 03**| [GitHub](https://github.com/carolinedemoraes/formulario-cadastro) | [Deploy](https://carolinedemoraes.github.io/formulario-cadastro/)         | 200XP     | 🥉         |
+
+---
+
+
+
 
 # Duda Tesch
 
