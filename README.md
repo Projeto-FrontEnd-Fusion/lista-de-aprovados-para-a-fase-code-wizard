@@ -248,6 +248,64 @@ Esses participantes completaram todos os 3 desafios e foram aprovados para a nov
 
 ---
 
+# Maria Fernanda Natividade Lima Loureiro
+
+<img src="https://avatars.githubusercontent.com/mfernandanll?v=4" alt="Avatar" width="120" height="120">
+
+**🤖 Desenvolvedora Frontend**
+
+**Fase Atual:** Code Wizard
+
+| Desafio       | Link do GitHub                                                   | Link do Deploy                                                              | Pontuação | Conquista |
+|---------------|-----------------------------------------------------------------|---------------------------------------------------------------------------|-----------|-----------|
+| **Desafio 01**| [GitHub](https://github.com/mfernandanll/apresentacao-pessoal-frontend-fernanda-loureiro) | [Deploy](https://fernanda-apresentacao-pessoal.netlify.app/)              | 400XP     | 🏆         |
+| **Desafio 02**| [GitHub](https://github.com/mfernandanll/desafio-galeria-de-imagem-frontendfusion-fernanda-loureiro) | [Deploy](https://picfinder-gallery.netlify.app/)                          | 250XP     | 🥈         |
+| **Desafio 03**| [GitHub](https://github.com/mfernandanll/desafio-formulario-com-validacao-frontend-fernanda-loureiro) | [Deploy](https://formulario-fusion.netlify.app/)                          | 200XP     | 🥉         |
+
+---
+
+
+# Rafael Euzebio
+
+<img src="https://avatars.githubusercontent.com/Rafael-Euzebio?v=4" alt="Avatar" width="120" height="120">
+
+**🤖 Desenvolvedor Fullstack**
+
+**Fase Atual:** Code Wizard
+
+| Desafio       | Link do GitHub                                                   | Link do Deploy                                                   | Pontuação | Conquista |
+|---------------|-----------------------------------------------------------------|----------------------------------------------------------------|-----------|-----------|
+| **Desafio 01**| [GitHub](https://github.com/Rafael-Euzebio/crud-herois-da-marvel-fullstack) | [Deploy](https://marvel-heroes-q8jm.onrender.com/)             | 1000XP     | 🏆         |
+
+---
+
+# Lucas Oliveira
+
+<img src="https://avatars.githubusercontent.com/lucasoliveirabr?v=4" alt="Avatar" width="120" height="120">
+
+**🤖 Desenvolvedor Fullstack**
+
+**Fase Atual:** Code Wizard
+
+| Desafio       | Link do GitHub                                                   | Link do Deploy                                                   | Pontuação | Conquista |
+|---------------|-----------------------------------------------------------------|----------------------------------------------------------------|-----------|-----------|
+| **Desafio 01**| [GitHub](https://github.com/lucasoliveirabr/test-fullstack-projeto-fusion) | [Deploy](https://test-fullstack-projeto-fusion.pages.dev)       | 1000XP     | 🏆         |
+
+---
+
+# Gleiciane Galdino
+
+<img src="https://avatars.githubusercontent.com/gleicianegaldino?v=4" alt="Avatar" width="120" height="120">
+
+**🤖 UI/UX Designer**
+
+**Fase Atual:** Code Wizard
+
+| Desafio       | Link do GitHub                                                   | Link do Deploy                                                   | Pontuação | Conquista |
+|---------------|-----------------------------------------------------------------|----------------------------------------------------------------|-----------|-----------|
+| **Desafio 01**| [Figma](https://www.figma.com/design/umo32KbEwdQUoIKQU4vgAq/FrontEnd-Fusion?node-id=0-1&m=dev&t=JQrnvFa51sBuiVTz-1) | [Protótipo](https://www.figma.com/design/umo32KbEwdQUoIKQU4vgAq/FrontEnd-Fusion?node-id=0-1&m=dev&t=JQrnvFa51sBuiVTz-1) | 1000xp         | 🏆         |
+
+---
 
 
 
