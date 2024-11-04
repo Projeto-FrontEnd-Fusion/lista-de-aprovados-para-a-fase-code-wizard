@@ -412,6 +412,99 @@ Esses participantes completaram todos os 3 desafios e foram aprovados para a nov
 | **Link do Behance**         | [Behance](https://www.behance.net/ennyasilveira) |
 
 
+# Leonardo Yusuke Hirano
+
+<img src="https://avatars.githubusercontent.com/Leonardoyusuke?v=4" alt="Avatar" width="120" height="120">
+
+**🤖 Desenvolvedor Backend**
+
+**Fase Atual:** Code Wizard
+
+| Desafio       | Link do GitHub                                                   | Link do Deploy                                                   | Pontuação | Conquista |
+|---------------|-----------------------------------------------------------------|----------------------------------------------------------------|-----------|-----------|
+| **Desafio 01**| [GitHub](https://github.com/Leonardoyusuke/desafio-backend-fusion-01) | [Deploy](https://desafio-backend-fusion-01-1.onrender.com)       | 100XP     | 🏆         | 
+
+---
+
+| Nome           | GitHub                                                                                         | Código                                                                                      | Deploy       | Data de Início | Data de Entrega |
+|----------------|------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|--------------|----------------|-----------------|
+| Deyllon Ramos  | [Deyllon/desafio-backend-fusion-01 at deyllon/FrontEndFusion](https://github.com/Deyllon/desafio-backend-fusion-01) | Swagger UI                                                                                  | Swagger UI   | 10/10/2024     | 23/10/2024      |
+
+
+# Deyllon Ramos
+
+<img src="https://avatars.githubusercontent.com/Deyllon?v=4" alt="Avatar" width="120" height="120">
+
+**🤖 Desenvolvedor Backend**
+
+**Fase Atual:** Code Wizard
+
+| Desafio       | Link do GitHub                                                   | Link do Deploy                                                   | Pontuação | Conquista |
+|---------------|-----------------------------------------------------------------|----------------------------------------------------------------|-----------|-----------|
+| **Desafio 01**| [GitHub](https://github.com/Deyllon/desafio-backend-fusion-01) | [Deploy](http://ec2-15-228-214-235.sa-east-1.compute.amazonaws.com/api) | 100XP     | 🏆         |
+
+---
+
+# Matheus Mozart da Silva Neves Borges
+
+<img src="https://avatars.githubusercontent.com/Mtmozart?v=4" alt="Avatar" width="120" height="120">
+
+**🤖 Desenvolvedor Backend**
+
+**Fase Atual:** Code Wizard
+
+| Desafio       | Link do GitHub                                            | Link do Deploy | Pontuação | Conquista |
+|---------------|----------------------------------------------------------|----------------|-----------|-----------|
+| **Desafio 01**| [GitHub](https://github.com/Mtmozart/desafio-backend-fusion) | N/A            | 1000xp       | 🏆     |
+
+---
+
+
+# Vítor Cavalcante Souza
+
+<img src="https://avatars.githubusercontent.com/Vitor-C-Souza?v=4" alt="Avatar" width="120" height="120">
+
+**🤖 Desenvolvedor Backend**
+
+**Fase Atual:** Code Wizard
+
+| Desafio       | Link do GitHub                                                  | Link do Deploy                                                   | Pontuação | Conquista |
+|---------------|----------------------------------------------------------------|----------------------------------------------------------------|-----------|-----------|
+| **Desafio 01**| [GitHub](https://github.com/Vitor-C-Souza/star-wars-api)      | [Deploy](https://star-wars-api-star-wars-api.up.railway.app/swagger-ui/index.html#/) | 1000xp      | 🏆       |
+
+---
+
+# Renara Maria Oliveira Secchim
+
+<img src="https://avatars.githubusercontent.com/Ar3secchim?v=4" alt="Avatar" width="120" height="120">
+
+**🤖 Desenvolvedora Fullstack**
+
+**Fase Atual:** Code Wizard
+
+| Desafio       | Link do GitHub                                                   | Link do Deploy                                                   | Pontuação | Conquista |
+|---------------|-----------------------------------------------------------------|----------------------------------------------------------------|-----------|-----------|
+| **Desafio 01**| [GitHub](https://github.com/Ar3secchim/test-fullstack-fusion) | [Deploy](https://test-fullstack-fusion.vercel.app/)            | 1000XP    | 🏆         |
+
+---
+
+# Lucas Oliveira
+
+<img src="https://avatars.githubusercontent.com/lucasoliveirabr?v=4" alt="Avatar" width="120" height="120">
+
+**🤖 Desenvolvedor Fullstack**
+
+**Fase Atual:** Code Wizard
+
+| Desafio       | Link do GitHub                                                   | Link do Deploy                                                   | Pontuação | Conquista |
+|---------------|-----------------------------------------------------------------|----------------------------------------------------------------|-----------|-----------|
+| **Desafio 01**| [GitHub](https://github.com/lucasoliveirabr/test-fullstack-projeto-fusion) | [Deploy](https://test-fullstack-projeto-fusion.pages.dev)       | 100XP     | 🏆         |
+
+---
+
+
+
+
 
 
 
